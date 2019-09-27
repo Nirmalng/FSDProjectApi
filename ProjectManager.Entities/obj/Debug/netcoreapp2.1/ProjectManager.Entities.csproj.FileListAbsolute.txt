@@ -16,3 +16,12 @@ C:\Users\Admin\Desktop\ProjectManagerApi\ProjectManagerService\ProjectManager.En
 C:\Users\Admin\Desktop\ProjectManagerApi\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfo.cs
 C:\Users\Admin\Desktop\ProjectManagerApi\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.dll
 C:\Users\Admin\Desktop\ProjectManagerApi\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.deps.json
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.pdb

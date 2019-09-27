@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\bin\Release\netcoreapp2.1\ProjectManager.Entities.deps.json
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\bin\Release\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\bin\Release\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Release\netcoreapp2.1\ProjectManager.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Release\netcoreapp2.1\ProjectManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Release\netcoreapp2.1\ProjectManager.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Release\netcoreapp2.1\ProjectManager.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Release\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Users\Admin\source\repos\FSDProjectApi\ProjectManager.Entities\obj\Release\netcoreapp2.1\ProjectManager.Entities.pdb
